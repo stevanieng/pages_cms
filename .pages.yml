@@ -1,9 +1,9 @@
 media: media
 content:
-  - name: phrases_for_you
+  - name: phrases
     label: Remember Us
     type: collection
-    path: 'phrases_for_you'
+    path: 'phrases'
     view:
       fields: [ title, published, date ]
     fields:
